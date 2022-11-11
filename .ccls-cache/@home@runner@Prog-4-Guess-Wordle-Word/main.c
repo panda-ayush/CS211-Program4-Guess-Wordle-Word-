@@ -10,7 +10,7 @@
         Using file wordsLarge.txt with 12947 words. 
         -----------------------------------------------------------
         
-        Enter a secret word or just r to choose one at random: dream
+        enter a secret word or just r to choose one at random: dream
         Trying to find secret word: 
                d r e a m 
         
